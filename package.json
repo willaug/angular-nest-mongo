@@ -1,0 +1,25 @@
+{
+  "name": "angular-nest-mongo",
+  "version": "1.0.0",
+  "description": "a simple fullstack app with angular, nestjs and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "start:all": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willaug/angular-nest-mongo.git"
+  },
+  "keywords": [
+    "angular",
+    "nestjs",
+    "mongodb",
+    "fullstack"
+  ],
+  "author": "willaug",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willaug/angular-nest-mongo/issues"
+  },
+  "homepage": "https://github.com/willaug/angular-nest-mongo#readme"
+}
